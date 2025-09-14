@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+/htmlcov/
+dist/
+*.egg-info/
+.tox/
+.mypy_cache/
+.pytest_cache/
+
+# Flask-specific
+instance/
+.flaskenv
+
+# Local data files
+# The garage_data.json file is likely meant for local development/testing.
+# You should version control a sample or empty data file, but not the
+# live data that changes constantly. If you want to track a sample,
+# you could just ignore the live version.
+garage_data.json
