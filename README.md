@@ -5,10 +5,21 @@ A simple web-based Point of Sale (POS) system for managing parts, customers, and
 ## Features
 
 * **Parts Database:** Add, view, and manage an inventory of spare parts, including purchase price, selling price, and stock levels.
+  ![Parts Database](images/partsDatabase.png)
+  
 * **Customer Management:** Search and add customer details associated with their vehicle's plate number.
+    ![customer](images/customer.png)
+
 * **Billing System:** Create bills for customers, add multiple parts and labour charges, and generate a printable bill.
+  ![billing](images/billing1.png)
+  ![billing](images/billing2.png)
+  ![billing](images/bill.png)
+
 * **Sales Analytics:** View key metrics such as total parts sold, total profit, and a list of most sold items.
+    ![Parts Database](images/analytics.png)
+
 * **Data Management:** Export and import a backup of all data (parts, customers, sales).
+
 
 ## Technologies Used
 
