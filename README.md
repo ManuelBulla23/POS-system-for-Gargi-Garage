@@ -2,7 +2,7 @@
 
 A simple web-based Point of Sale (POS) system for managing parts, customers, and billing for a two-wheeler garage and spare parts shop.
 
-## Features
+## Features 
 
 * **Parts Database:** Add, view, and manage an inventory of spare parts, including purchase price, selling price, and stock levels.
   ![Parts Database](images/partsDatabase.png)
